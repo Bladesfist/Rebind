@@ -1,0 +1,4 @@
+Forward=W,UpArrow
+Left=A,LeftArrow
+Right=D,RightArrow
+Back=S,DownArrow
